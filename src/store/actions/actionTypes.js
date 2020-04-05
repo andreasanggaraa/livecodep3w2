@@ -1,0 +1,5 @@
+export default {
+    FETCH_TODOS: "FETCH_TODOS",
+    SET_LOADING: "SET_LOADING",
+    ADD_USER: "ADD_USER"
+}
